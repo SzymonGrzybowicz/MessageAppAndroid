@@ -1,0 +1,27 @@
+<resources>
+	<string name="app_name">MyMessagesAndroid</string>
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="password">Password</string>
+	<string name="mail">Mail</string>
+	<string name="login">Login</string>
+	<string name="try_again">Try again</string>
+	<string name="wait">Wait...</string>
+	<string name="add_conversation">Add conversation</string>
+	<string name="select_user">Select user</string>
+	<string name="sent">Sent</string>
+	<string name="message">Message</string>
+	<string name="conversations">Conversations</string>
+	<string name="logout">Logout</string>
+	<string name="no_messages">There is no messages</string>
+	<string name="no_new_users">There is no new users</string>
+	<string name="register">Register</string>
+	<string name="name">Name</string>
+	<string name="confirm_password">Confirm password</string>
+	<string name="add_mail">Add mail!</string>
+	<string name="add_name">Add name!</string>
+	<string name="add_password">Add password</string>
+	<string name="passwords_not_the_same">Password and confirmed password are different!</string>
+	<string name="try_another_mail">Try another mail</string>
+	<string name="mail_invalid">This is not a valid mail</string>
+	<string name="no_conversations">There is no conversations</string>
+</resources>
